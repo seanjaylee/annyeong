@@ -22,8 +22,7 @@ import {
     limit,
     orderBy,
     addDoc,
-    writeBatch,
-    increment
+    writeBatch
 } from 'firebase/firestore';
 
 // --- Constants & Helper Functions ---
